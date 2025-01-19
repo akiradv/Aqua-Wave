@@ -7,6 +7,7 @@ AquaWave é um tema vibrante e moderno para Discord, inspirado nas cores refresc
 - Gradiente de fundo suave em tons de verde e azul
 - Bordas arredondadas para uma aparência moderna
 - Todos os ícones do Discord foram alterados
+- Várias animações suaves adicionadas para transições e interações mais fluídas
 - Correção de bugs na interface do usuário
 - Estilo responsivo e agradável aos olhos
 
@@ -36,4 +37,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Você pode usar, mod
 
 ## Agradecimentos
 
-Agradecimentos especiais ao repositório [Midnight Discord](https://github.com/refact0r/midnight-discord) pelas bordas melhoradas de servidor e por corrigir uma tonelada de bugs na interface do usuário.
+Agradecimentos especiais ao repositório [Midnight Discord](https://github.com/refact0r/midnight-discord) pelas bordas melhoradas de servidor e por corrigir uma tonelada de bugs na interface do usuário. Também agradecemos ao tema [GlassWave](https://github.com/Elisniper/Glass-Wave) pelas inspirações nas animações suaves que foram integradas ao AquaWave.
