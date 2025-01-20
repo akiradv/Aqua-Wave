@@ -31,6 +31,9 @@ AquaWave é um tema vibrante e moderno para Discord, inspirado nas cores refresc
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Suporte
+
+![SuporteImagem](assets/spotifycontrols.png)
 ## Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE). Você pode usar, modificar e distribuir este tema como desejar.
